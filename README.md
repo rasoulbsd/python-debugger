@@ -4,7 +4,7 @@ It will be useful when you face a whole new repo or project and wants to underst
 
 For running the project, you must place the main.py file in your working directory.
 
-You can also run the script and pass your working directory as an argumetn to the script
+You can also run the script and pass your working directory as an argument to the script
 for example: 
 
 Warning: 
